@@ -1,6 +1,6 @@
 # Proyectos con Angular - TypeScript / JavaScript
 
-![image](https://github.com/dieegoludee/spring-repository/assets/127766535/cdc65a1b-45a5-493d-b953-2fccf42a447d)
+![image](![image](https://github.com/dieegoludee/angular-repository/assets/127766535/7ef59279-25fc-402a-bad0-d6ec2919ad41))
 
 
 ***En el directorio `/projects` están todos los proyectos de Angular***
