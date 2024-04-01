@@ -7,6 +7,6 @@
 
 | Número  | Proyecto | Código |
 | ------------- | ------------- | ------------- |
-| `01`  | Introducción a Angular - Intro de TypeScript  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/01-typescript-intro)  |
+| `01`  | Angular - Introducción de TypeScript  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/01-typescript-intro)  |
 
 
