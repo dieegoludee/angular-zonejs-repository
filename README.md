@@ -8,7 +8,7 @@
 | Número  | Proyecto | Código |
 | ------------- | ------------- | ------------- |
 | `01`  | Angular - Introducción de TypeScript  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/01-typescript-intro)  |
-| `02`  | Angular - Angular - BasesApp  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/02-bases-app)  |
+| `02`  | Angular - BasesApp  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/02-bases-app)  |
 
 
 
