@@ -24,7 +24,11 @@ export class MainPageComponent {
   ];
 
   onNewCharacter(character: Character): void {
-    console.log('MainPage');
-    console.log(character);
+    // this.characters.unshift(character); // agregar elemento al inicio del array
+    this.characters.push(character); // agregar elemento al final del array
+  }
+
+  onDeleteCharacter(index: number): void {
+    this.characters.splice(index, 1);
   }
 }
