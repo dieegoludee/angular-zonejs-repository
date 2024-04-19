@@ -27,7 +27,7 @@ export class DbzService {
     },
   ];
 
-  onNewCharacter(character: Character): void {
+  addCharacter(character: Character): void {
     // this.characters.unshift(character); // agregar elemento al inicio del array
     const newCharacter: Character = { id: uuid(), ...character };
 
