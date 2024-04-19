@@ -29,10 +29,18 @@ export class DbzService {
 
   onNewCharacter(character: Character): void {
     // this.characters.unshift(character); // agregar elemento al inicio del array
-    this.characters.push(character); // agregar elemento al final del array
+    const newCharacter: Character = { id: uuid(), ...character };
+
+    this.characters.push(newCharacter); // agregar elemento al final del array
   }
 
-  onDeleteCharacter(index: number): void {
-    this.characters.splice(index, 1);
+  // onDeleteCharacter(index: number): void {
+  //   this.characters.splice(index, 1);
+  // }
+
+  deleteCharacterById(id: string): void {
+    this.characters = this.characters.filter(
+      (character) => character.id !== id
+    );
   }
 }
