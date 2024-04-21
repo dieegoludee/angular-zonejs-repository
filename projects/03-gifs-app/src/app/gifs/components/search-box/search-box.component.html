@@ -1,4 +1,12 @@
 <section>
   <h5>Buscar:</h5>
-  <input type="text" class="form-control" placeholder="Buscar gifs." />
+  <input
+    type="text"
+    class="form-control"
+    placeholder="Buscar gifs."
+    (keyup.enter)="searchTag()"
+    #txtTagInput
+  />
+  <!-- (keyup.enter) - al pulsar enter envia el valor por consola por el método searchTag()-->
+  <!-- #txtTagInput es una referencia local para conseguir el valor con el .value-->
 </section>
