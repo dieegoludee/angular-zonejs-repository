@@ -16,7 +16,11 @@
     <div class="col">
       <!-- Resultados -->
       <hr />
-      tabla de resultados
+      <ul>
+        <li *ngFor="let country of countries">
+          {{ country.name.nativeName }} - {{ country.population }}
+        </li>
+      </ul>
     </div>
   </div>
 </div>
