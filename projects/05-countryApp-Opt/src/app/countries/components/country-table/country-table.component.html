@@ -25,26 +25,32 @@
 
         <td>
           {{ country.flag }}
+          <!--Icono de bandera-->
         </td>
 
         <td>
           <img [src]="country.flags.svg" [alt]="country.name.common" />
+          <!--Bandera-->
         </td>
 
         <td>
           {{ country.name.common }}
+          <!--Nombre-->
         </td>
 
         <td>
           {{ country.capital }}
+          <!--Capital-->
         </td>
 
         <td>
           {{ country.population | number }}
+          <!--Población-->
         </td>
 
         <td>
           <a [routerLink]="['/countries/by', country.cca3]">Ver más</a>
+          <!--Info del país o capital-->
         </td>
       </tr>
     </tbody>
