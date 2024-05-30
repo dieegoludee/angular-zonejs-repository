@@ -12,3 +12,4 @@
 | `03`  | Angular - GifsApp  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/03-gifs-app)  |
 | `04`  | Angular - CountryApp - Router y SPA  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/04-countryApp)  |
 | `05`  | Angular - CountryApp - Optimización y funcionalidades extra  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/05-countryApp-Opt)  |
+| `06`  | Angular - PipesApp - Pipes y PrimeNG  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/06-pipesApp)  |
