@@ -1,9 +1,5 @@
-<router-outlet></router-outlet>
+<div>
+  <shared-menu></shared-menu>
 
-<h1>{{ title }}</h1>
-
-<h1>{{ title | slice : 0 : 5 | titlecase }}...</h1>
-
-<p-button icon="pi pi-check" />
-<p-button label="Submit" icon="pi pi-check" />
-<p-button label="Submit" icon="pi pi-check" iconPos="right" />
+  <router-outlet></router-outlet>
+</div>
