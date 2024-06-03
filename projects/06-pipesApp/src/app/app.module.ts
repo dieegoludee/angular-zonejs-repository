@@ -23,6 +23,7 @@ registerLocaleData(localeFrCA);
     BrowserAnimationsModule,
   ],
   providers: [
+    // Cambio de idioma global de la app
     {
       provide: LOCALE_ID,
       useValue: 'es-HN',
