@@ -13,4 +13,4 @@
 | `04`  | Angular - CountryApp - Router y SPA  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/04-countryApp)  |
 | `05`  | Angular - CountryApp - Optimización y funcionalidades extra  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/05-countryApp-Opt)  |
 | `06`  | Angular - PipesApp - Pipes y PrimeNG  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/06-pipesApp)  |
-| `07`  | Angular - HeroesApp - Rutas hijas y LazyLoading  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/07-heroesApp)  |
+| `07`  | Angular - HeroesApp - Rutas hijas y LazyLoading - Angular Material  | [Ver](https://github.com/dieegoludee/angular-repository/tree/main/projects/07-heroesApp)  |
