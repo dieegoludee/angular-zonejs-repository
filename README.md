@@ -2,8 +2,11 @@
 
 ![image](https://github.com/dieegoludee/angular-repository/assets/127766535/7ef59279-25fc-402a-bad0-d6ec2919ad41)
 
+>[TIP!]
+> - Las versiones de Angular son las v15, v16 y v17.
 
-***En el directorio `/projects` están todos los proyectos de Angular***
+> [IMPORTANT!]
+> ***En el directorio `/projects` están todos los proyectos de Angular***
 
 | Número  | Proyecto | Código |
 | ------------- | ------------- | ------------- |
